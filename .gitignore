@@ -25,3 +25,7 @@ go.work.sum
 
 # build binary
 checkup
+result
+.direnv/
+.envrc
+vendor/
